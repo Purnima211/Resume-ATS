@@ -9,13 +9,13 @@ feedback to identify strengths and areas for improvement.
 ## Screenshots
 
 ### Resume Analysis
-![Resume Analysis](Screenshot 2026-10-26 195638.png)
+![Resume Analysis](./Screenshot%202026-10-26%20195638.png)
 
 ### ATS Results
-![ATS Results](Screenshot 2026-10-26 232310.png)
+![ATS Results](./Screenshot%202026-10-26%20232310.png)
 
 ### Keyword Matching
-![Keyword Matching](Screenshot 2026-10-26 232333.png)
+![Keyword Matching](./Screenshot%202026-10-26%20232333.png)
 
 ## Features
 
