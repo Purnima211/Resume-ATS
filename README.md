@@ -6,6 +6,17 @@ criteria. Users can provide resume text or upload a supported resume
 file, optionally add a target job description, and review structured
 feedback to identify strengths and areas for improvement.
 
+## Screenshots
+
+### Resume Analysis
+![Resume Analysis](./screenshots/home.png)
+
+### ATS Results
+![ATS Results](./screenshots/analysis.png)
+
+### Keyword Matching
+![Keyword Matching](./screenshots/keywords.png)
+
 ## Features
 
 -   **Resume input:** Upload a resume as PDF, DOCX, or TXT, or provide
